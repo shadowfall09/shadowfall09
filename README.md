@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+He+Zhu;Nice+to+meet+you!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Yicheng+Tao;Nice+to+meet+you!)](https://git.io/typing-svg)
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -19,7 +19,7 @@
  -->
 ⚡ Set your course by the stars, not by the lights ofevery passing ship. --Omar N. Bradley
 
-🌱 I'm currently a junior student studying at SUSTech (Shenzhen). I will be going to PKU for MPhil degree.
+🌱 I'm currently a junior student studying at SUSTech (Shenzhen).
 
 🔭 Interested in Causality Inference, Game Theory, Machine Learning and HPC, want to explore more!
 
