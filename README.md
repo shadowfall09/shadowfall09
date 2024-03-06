@@ -19,13 +19,11 @@
  -->
 ⚡ Set your course by the stars, not by the lights ofevery passing ship. --Omar N. Bradley
 
-🌱 I'm currently a junior student studying at SUSTech (Shenzhen).
+🌱 I'm currently a junior student studying at SUSTech (Shenzhen, China).
 
-🔭 Interested in Causality Inference, Game Theory, Machine Learning and HPC, want to explore more!
+🔭 Interested in deep learning and data science. Currently have some understanding of LLM engineering and transfer learning, want to explore more!
 
-🌱 currently dive into summer research on UTokyo...
-
-👯 I’m looking to collaborate on Kaggle Competition... 
+🌱 currently dive into LLM research on urban planing with Peking University ...
 
 ✨ Thristy for new project...
 
