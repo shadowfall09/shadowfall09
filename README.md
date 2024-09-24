@@ -19,7 +19,7 @@
  -->
 ⚡ Set your course by the stars, not by the lights ofevery passing ship. --Omar N. Bradley
 
-🌱 I'm currently a junior student studying at SUSTech (Shenzhen, China).
+🌱 I'm currently a senior student studying at SUSTech (Shenzhen, China).
 
 🔭 Interested in deep learning and data science. Currently have some understanding of LLM engineering and transfer learning, want to explore more!
 
