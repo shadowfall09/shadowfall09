@@ -19,13 +19,10 @@
  -->
 ⚡ Set your course by the stars, not by the lights ofevery passing ship. --Omar N. Bradley
 
-🌱 I'm currently a senior student studying at SUSTech (Shenzhen, China).
+🌱 I'm currently a master student studying at Carnegie Mellon University.
 
-🔭 Interested in deep learning and data science. Currently have some understanding of LLM engineering and transfer learning, want to explore more!
+🔭 My research interests focus on large language models, with additional interests in spatio-temporal data mining (smart cities), code generation, and financial applications of LLMs.
 
-🌱 currently dive into LLM research on urban planing with Peking University ...
-
-✨ Thristy for new project...
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shadowfall09&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
